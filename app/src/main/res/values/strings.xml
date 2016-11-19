@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Instrumentos Musicales</string>
+
+    <string name="pie_pagina_titulo">Facultad de Artes</string>
+    <string name="pie_pagina_url">www.fdartesnextu.com</string>
+    <string name="descripcion_instrumento_musical">Descripcion instrumento musical</string>
+    <string name="titulo_lista_instrumentos">Instrumentos Musicales</string>
+
+
+</resources>
